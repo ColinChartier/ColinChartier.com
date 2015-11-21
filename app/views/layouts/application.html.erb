@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Colin Chartier</title>
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<header>
+  <div id="banner">
+    <p class="lefttext">Colin</p>
+    <%= image_tag('CCLogo.png') %>
+    <p class="righttext">Chartier</p>
+  </div>
+  <nav>
+    <ul class="navbar">
+      <li>
+        <a href="/" <%= current_page?('/') ? 'class=active' : '' %>>Who Am I</a>
+      </li>
+      <li>
+        <a href="/projects"<%= current_page?('/projects') ? 'class=active' : '' %>>Projects</a>
+      </li>
+      <li>
+        <a href="/contact"<%= current_page?('/contact') ? 'class=active' : '' %>>Contact</a>
+      </li>
+    </ul>
+
+  </nav>
+</header>
+
+<div id="content">
+  <%= yield %>
+</div>
+</body>
+</html>
