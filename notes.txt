@@ -1,0 +1,33 @@
+Purpose
+Give measure of experience
+Stand out
+Learn some more Ruby, avoid using Bootstrap / other "builders", try to broaden web technology knowledge
+
+Leadership
+Teacher assistant for 6 years at the Royal Winnipeg Ballet
+Tutor of university level software design starting when I was in grade 10
+Mentor at University of Toronto Hack Nights
+Open source collaboration on [as I remember and looking at this github account] LMAX Disruptor, synergy, Reddit Slide
+Closed source collaboration on numerous projects
+
+
+Development
+Fluency in Java, C, C++, Ruby, D, JavaScript, and Python
+Hundreds of thousands of lines of code, starting when I was 13
+Coding practice on challenge sites like Project Euler
+Personal projects have accumulated over 20,000 downloads in various mediums and languages.
+Open source development [github]
+Development is mostly done on JetBrains IDEs, with little hacks done in Vim
+Version control is Subversion on school projects, Git to a local server for personal projects, and Git to Github for public projects.
+
+
+Achievement
+* Top 100 in canada - canadian computing competition
+* Achievement award, teacher assistant award - Royal Winnipeg Ballet
+* Hack night winner - University of Toronto Hack Nights
+* Top student in school - Hypatia Math Competition
+
+Misc
+* Laptop is dual booting Arch with i3 and systemd, and Windows 10
+* Laptop uses scratch-made status bar using BASH, custom skinned URxvt
+* My apartment in Toronto has two screens with two different linux distributions [Arch and Mint] connected to yet another linux distribution as an audio server [Raspberry pi running Raspbian]

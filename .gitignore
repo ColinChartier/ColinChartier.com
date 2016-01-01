@@ -10,6 +10,9 @@
 # Platform specific files
 .DS_Store
 
+# Ruby
+.idea/
+
 # Ignore all logfiles and tempfiles.
 /log/*
 !/log/.keep

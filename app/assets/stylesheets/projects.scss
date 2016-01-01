@@ -2,8 +2,25 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-.project-title {
+$project_title_color: #232a2c;
+$project_description_color: #4b585b;
+
+.project {
   text-align: center;
+  color: $project_title_color;
+  margin-top: 7em;
+
+  ul {
+    list-style-type: none;
+  }
+  p {
+    color: $project_description_color;
+    font-size: 1.25em;
+  }
+}
+
+.project.first {
+  margin-top: 0; //no margin on the first project
 }
 
 #omnibox {
